@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author manol
+ *
+ */
+module hola {
+}
